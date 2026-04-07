@@ -1,0 +1,5 @@
+pymupdf
+llama-cpp-python
+numpy
+matplotlib
+tqdm
